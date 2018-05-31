@@ -1,0 +1,1 @@
+start-turbine.bat -port 10901 -streams "http://prv-prd-nwg-w1:80/api/health/stream http://prv-prd-nwg-w0:80/api/health/stream"

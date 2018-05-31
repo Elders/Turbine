@@ -1,2 +1,2 @@
 cd %~dp0
-.\gradlew.bat shadowJar
+.\gradlew.bat shadowJar %*
